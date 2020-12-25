@@ -1,2 +1,2 @@
 # LeetCodeRepository
-My solutions to some of LeetCode algorithmic problems.
+My solutions to some of LeetCode algorithmic problems
